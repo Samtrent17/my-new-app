@@ -37,7 +37,12 @@ function Home() {
 
     <Button variant="text" >Proceed</Button>
     <Button variant="contained" disabled >Proceed</Button>
+
+
+    
     <Button variant="outlined" >Proceed</Button>
+
+
 
 
   </div>
