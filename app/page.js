@@ -14,7 +14,7 @@ function Home() {
     <Title heading="DIME DRIP" subheading="Dime Drip is a very nice website"/>
     <Contents details="Dime Drip is a very helpful website"/>
 
-
+    <Button variant="text" >Press Here</Button>
     <br/>
 
 
@@ -22,7 +22,7 @@ function Home() {
     <Title heading="UCU" subheading="UCU is a very nice website"/>
     <Contents details="UCU is a very good University."/>
 
-
+    <Button variant="contained" disabled >Proceed</Button>
 
     <br/>
 
@@ -35,8 +35,8 @@ function Home() {
 
     <br/>
 
-    <Button variant="text" >Proceed</Button>
-    <Button variant="contained" disabled >Proceed</Button>
+    
+   
 
 
     
